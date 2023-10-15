@@ -1,6 +1,7 @@
 package studio.lunathefox20;
 
 import net.minecraft.init.Blocks;
+import net.minecraftforge.client.ClientCommandHandler;
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.common.event.FMLInitializationEvent;
 
